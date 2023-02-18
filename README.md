@@ -1,9 +1,9 @@
 # qb-shops
 Shops For QB-Core
 
-# Notice
+# Notice - Stay updated
 
-You must I repeat MUST use the latest version of qb-truckingjob with this resource!
+You MUST use the latest version of qb-truckingjob with this resource!
 
 # License
 
